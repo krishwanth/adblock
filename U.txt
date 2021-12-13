@@ -49,7 +49,7 @@ cc.0133hao.net
 013572.cn
 india.gov.in
 outlook.office.com
-www.datafoundry.ai
+https://datafoundry.ai
 king.com
 bharathuniv.ac.in
 Miniclip.com. ...
